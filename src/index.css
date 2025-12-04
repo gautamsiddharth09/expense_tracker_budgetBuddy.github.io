@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+/* 
+@theme{
+  --color--expense: #7e69ab;
+  --color--expense-light: #9b87f5;
+  --color--expense-dark: #6e59a5;
+} */
+/* index.css */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #f9f9f9, #e9ecef);
+  color: #333;
+}
+
